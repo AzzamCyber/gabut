@@ -1,2 +1,0 @@
-# gabut
-TERMUX GABUT
